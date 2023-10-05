@@ -51,7 +51,7 @@ input, textarea {
     display: grid;
     justify-content: center;
     width: 600px;
-    margin-right: -1200px;
+    margin-right: -1000px;
     margin-top: 125px;
 }
 
