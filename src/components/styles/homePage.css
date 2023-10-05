@@ -1,0 +1,73 @@
+.homePage {
+    background-color: rgba(0, 0, 0, 0.904);
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    padding: 40px;
+    margin-top: 0px;
+    color: rgb(255, 255, 255);
+}
+
+.track-btn {
+    background-color: rgba(85, 17, 0, 0.473);
+    width: 300px;
+    height: 30px;
+    color: white;
+    display: grid;
+    text-align: center;
+    justify-items: center;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+.homePage-input {
+    background-color:  rgb(53, 53, 53);
+    display: grid;
+    justify-items: center;
+    width: 400px;
+    color: rgb(255, 255, 255);
+}
+
+.homePage-onChange {
+    background-color: rgb(53, 53, 53);
+    font-size: 20px;
+    border-radius: 0.2em;
+    width: 400px;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.homePage-inputTex {
+    background-color:rgb(53, 53, 53);
+    display: drid;
+    justify-items: center;
+    font-size: 20px;
+    border-radius: 0.2em;
+    width: 400px;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.homePage-listadoBg {
+    background-color: rgba(5, 5, 5, 0.342);
+    width: 400px;
+    display: grid;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 0.5em;
+    margin-top: 20px;
+}
+
+.bx-plus-circle {
+    color: rgb(255, 115, 115);
+    font-size: 30px;
+    cursor: pointer;
+    margin-left: 0.1em;
+}
+
+.bxl-spotify {
+    color: rgb(115, 204, 255);
+    font-size: 30px;
+    cursor: pointer;
+    margin-left: 0.4em;
+}

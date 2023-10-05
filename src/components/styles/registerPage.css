@@ -1,0 +1,109 @@
+.register-position {
+    background-color: rgb(12, 12, 12);
+    width: 100% vh;
+    height: 800px;
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.register-bg-foto {
+    background-color: rgba(255, 40, 2, 0.014);
+    width:480px;
+    height: 650px;
+    border-radius: 0.5em;
+    display: grid;
+    justify-content: center;
+    
+}
+
+.register-image-musico {
+    width:400px;
+    height: 550px;
+    border-radius: 0.5em;
+    margin-top: 45px;
+}
+
+.register-image-fondo {
+    width:100%;
+    height: 600px;
+}
+
+.register {
+    color: rgba(211, 42, 0, 0.774);
+    font-size: 70px;
+    display: grid;
+    justify-items: center;
+    margin-top: 50px;
+
+}
+
+.register-reg {
+    margin-top: -560px;
+}
+
+.register-info {
+    margin-top: 153px;
+
+}
+
+label, input, button {
+    background-color: rgba(24, 24, 24, 0.808);
+    display: grid;
+    border-radius: 0.2em;
+    border: solid transparent;
+    font-size: 17px;
+    
+}
+
+input {
+    background-color: rgba(27, 27, 27, 0.842);
+    color: white;
+}
+
+.register-fondo {  
+    background-color: rgba(5, 5, 5, 0.918);
+    display: grid;
+    justify-items: center;
+    width: 100%;
+    height: 650px;
+    max-width: 350px;
+    border-radius: 0.7em;
+    border: 0.5em solid rgba(126, 126, 126, 0.267);
+    color: white;
+}
+
+.register-email {
+    
+    display: grid;
+    gap: 1em;
+    margin-bottom: 4em;
+    font-size: 11px;
+}
+
+.register-pasword {
+    display: grid;
+    gap: 1em;
+    margin-bottom: 4em;
+    font-size: 20px;
+    width: 330;
+}
+
+.register-btn {
+    background-color: rgba(92, 0, 0, 0.699);
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -10px;
+    cursor: pointer;
+    color: white;
+    font-size: 17px;
+}
+
+.register-reg-go {
+    text-align: center;
+    display: grid;
+    font-size: 14px;
+}
